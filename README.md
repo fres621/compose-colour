@@ -1,2 +1,2 @@
-# compose-color
-🎨 Compose multiplatform color picker 
+# compose-colour
+🎨 Compose multiplatform colour picker 
